@@ -1,0 +1,32 @@
+* {
+    font-family: Impact;
+    text-align: center;
+}
+
+.header {
+    background-color: rgb(138, 138, 138);
+    color: white
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: whitesmoke;
+}
+
+
+.origami img{
+    border: 2px solid black;
+    border-radius: 50px;
+    justify-content: center;
+    margin-right: auto;
+}
+
+.origami {
+    background-color: white;
+    width: 310px;
+    border-radius: 20px;
+}
+
+
